@@ -9,7 +9,7 @@ var num = Number(prompt('Enter num'));
     
          fib[i] = fib[i-2] + fib[i-1];
     }
-    document.write(fib[num]);
+    document.write('Fibonacci Number '+num+' = '+fib[num]);
 }
 
 
