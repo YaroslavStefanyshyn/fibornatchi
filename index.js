@@ -1,5 +1,5 @@
 // JavaScript File
-var num = Number(prompt('Enter val a'));
+var num = Number(prompt('Enter num'));
 
     fibonacci(num);
     
